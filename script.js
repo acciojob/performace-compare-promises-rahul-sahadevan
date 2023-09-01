@@ -46,7 +46,7 @@ function time(){
 	let r2 = e2-s2;
 	console.log(r2);
 	
-	outAll.innerText = r1;
+	// outAll.innerText = r1;
 	outAny.innerText = r2;
 
 
