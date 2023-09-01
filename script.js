@@ -47,7 +47,7 @@ function time(){
 	console.log(r2);
 	
 	// outAll.innerText = r1;
-	outAny.innerText = r2;
+	// outAny.innerText = r2;
 
 
 }
